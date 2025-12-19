@@ -1,7 +1,3 @@
-Here is a professional, high-quality README for your **CivicPulse** project, modeled after the structure and styling of the Emotion AI repository you provided.
-
----
-
 # 🏛️ CivicPulse: Citizen Engagement Portal
 
 <div align="center">
